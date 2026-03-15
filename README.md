@@ -22,5 +22,5 @@ Authmax is distributed under the MIT License. See `LICENSE` file for more inform
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out at business@pokymons.com.
+For any questions or suggestions, feel free to reach out at fauqi@pokymon.com.
 
